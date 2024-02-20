@@ -4,23 +4,23 @@ title: HW2
 permalink: /HW2/
 ---
 
-## This is a heading
+# This is a heading
 
-# Here's a smaller heading
+## Here's a smaller heading
 
 This is a paragraph
 
 **this will be bold** ~~this will be strike through~~ **this will be underlined**
 
-# Lists
+## Lists
 
-## Unordered
+# Unordered
 * item one
 * item two
   * item a
   * item b
 
-## Ordered
+# Ordered
 1. Item 1
 1. Iten 2
 1. Item 3
