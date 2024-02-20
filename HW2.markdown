@@ -27,6 +27,7 @@ This is a paragraph
 1. Item 3a
 
 # Table
+
 | Command | Description |
 | ----: | :---- |
 | git add | Stage changes for commit |
