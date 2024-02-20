@@ -35,4 +35,4 @@ This is a paragraph
 
 > This is a quote
 
-[this is a link] (google.com)
+[This is a link to Google](google.com)
