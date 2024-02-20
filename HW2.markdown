@@ -3,6 +3,6 @@ layout: HW2
 permalink: /HW2/
 ---
 
-<h1>This is a heading</h1>
+<h3>This is a heading</h3>
 
-<h3>Here's a smaller heading</h3>
+<h1>Here's a smaller heading</h1>
