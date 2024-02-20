@@ -1,5 +1,6 @@
 ---
-layout: HW2
+layout: page
+title: HW2
 permalink: /HW2/
 ---
 
